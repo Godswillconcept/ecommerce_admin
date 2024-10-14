@@ -59,7 +59,7 @@ class _HomePageState extends State<HomePage> {
                   backgroundColor:
                       MaterialStateProperty.all<Color>(Colors.purple),
                 ),
-                child: Text("CartSceen"))
+                child: Text("CartScreen"))
           ],
         ),
       ),
